@@ -163,4 +163,4 @@ ORDER BY t.TABLE_NAME;
 <img width="965" height="896" alt="image" src="https://github.com/user-attachments/assets/d18b9492-1e36-40b0-a6ef-cb653b1dbdc9" />
 
 
----(ссылка на скриншот)`
+---
